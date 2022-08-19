@@ -14,7 +14,7 @@ public class Main {
         if(test.equals("임희정 바보")){
             System.out.println("바보바보");
         } else{
-            System.out.println("천재천재");
+            System.out.println("천재천재 zz");
         }
         for (int i = 0; i < test3; i++) {
                 System.out.println(test + "  = " + i);
